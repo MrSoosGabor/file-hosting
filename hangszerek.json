@@ -69,7 +69,7 @@
     "name": "Accordion",
     "type": "Keyboard",
     "origin": "Italy",
-    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Accordion.png"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Accordion_piano.png"
   },
   {
     "name": "Oboe",
@@ -81,7 +81,7 @@
     "name": "Bass Guitar",
     "type": "String",
     "origin": "United States",
-    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Bass_Guitar.png"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Bass_guitar.png"
   },
   {
     "name": "Marimba",
@@ -93,6 +93,6 @@
     "name": "Double Bass",
     "type": "String",
     "origin": "Italy",
-    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Double_Bass.png"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Double_bass.png"
   }
 ]
