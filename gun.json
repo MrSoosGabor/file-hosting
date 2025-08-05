@@ -4,111 +4,111 @@
     "manufacturer": "Kalashnikov Concern",
     "type": "Assault Rifle",
     "caliber": "7.62×39mm",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/AK-47_type_II_Part_DM-ST-89-01131.jpg/1200px-AK-47_type_II_Part_DM-ST-89-01131.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/AK-47.png"
   },
   {
     "name": "M16",
     "manufacturer": "Colt",
     "type": "Assault Rifle",
     "caliber": "5.56×45mm NATO",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/M16A1_Rifle.jpg/1200px-M16A1_Rifle.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/M16.png"
   },
   {
     "name": "Glock 17",
     "manufacturer": "Glock Ges.m.b.H.",
     "type": "Pistol",
     "caliber": "9×19mm Parabellum",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Glock_17_black.png/800px-Glock_17_black.png"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/Glock17.png"
   },
   {
     "name": "FN SCAR",
     "manufacturer": "FN Herstal",
     "type": "Assault Rifle",
     "caliber": "5.56×45mm NATO",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/FN_SCAR-L_HC.jpg/1200px-FN_SCAR-L_HC.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/FN_SCAR.png"
   },
   {
     "name": "MP5",
     "manufacturer": "Heckler & Koch",
     "type": "Submachine Gun",
     "caliber": "9×19mm Parabellum",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/MP5_1.jpg/1200px-MP5_1.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/MP5.png"
   },
   {
     "name": "Desert Eagle",
     "manufacturer": "Magnum Research",
     "type": "Pistol",
     "caliber": ".50 AE",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Desert_Eagle_Magnum_Research.jpg/1200px-Desert_Eagle_Magnum_Research.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/Desert_Eagle.png"
   },
   {
     "name": "Remington 700",
     "manufacturer": "Remington Arms",
     "type": "Bolt-Action Rifle",
     "caliber": ".308 Winchester",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Remington_700BDL_2010.jpg/1200px-Remington_700BDL_2010.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/Remington_700.png"
   },
   {
     "name": "Beretta 92FS",
     "manufacturer": "Beretta",
     "type": "Pistol",
     "caliber": "9×19mm Parabellum",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Beretta_92FS_9mm_parabellum_pistol.jpg/1200px-Beretta_92FS_9mm_parabellum_pistol.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/Beretta_92FS.png"
   },
   {
     "name": "Uzi",
     "manufacturer": "Israel Military Industries",
     "type": "Submachine Gun",
     "caliber": "9×19mm Parabellum",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Uzi_in_1970.jpg/1200px-Uzi_in_1970.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/Uzi.png"
   },
   {
     "name": "Winchester Model 1894",
     "manufacturer": "Winchester Repeating Arms Company",
     "type": "Lever-Action Rifle",
     "caliber": ".30-30 Winchester",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Winchester_1894_30-30.jpg/1200px-Winchester_1894_30-30.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/Winchester_Model_1894.png"
   },
   {
     "name": "FN FAL",
     "manufacturer": "FN Herstal",
     "type": "Battle Rifle",
     "caliber": "7.62×51mm NATO",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/FN_FAL_Rifle.jpg/1200px-FN_FAL_Rifle.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/FN_FAL.png"
   },
   {
     "name": "M9 Pistol",
     "manufacturer": "Beretta",
     "type": "Pistol",
     "caliber": "9×19mm Parabellum",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Beretta_M9_9mm_pistol.jpg/1200px-Beretta_M9_9mm_pistol.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/M9.png"
   },
   {
     "name": "Colt Single Action Army",
     "manufacturer": "Colt's Manufacturing Company",
     "type": "Revolver",
     "caliber": ".45 Colt",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Colt_single_action_army.JPG/1200px-Colt_single_action_army.JPG"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/Colt.png"
   },
   {
     "name": "Thompson Submachine Gun",
     "manufacturer": "Auto-Ordnance",
     "type": "Submachine Gun",
     "caliber": ".45 ACP",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Thompson_submachine_gun.jpg/1200px-Thompson_submachine_gun.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/Thompson_Submachine_Gun.png"
   },
   {
     "name": "Steyr AUG",
     "manufacturer": "Steyr Mannlicher",
     "type": "Assault Rifle",
     "caliber": "5.56×45mm NATO",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Steyr_AUG_A1_front.jpg/1200px-Steyr_AUG_A1_front.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/Steyr_AUG.png"
   },
   {
     "name": "SIG Sauer P226",
     "manufacturer": "SIG Sauer",
     "type": "Pistol",
     "caliber": "9×19mm Parabellum",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/SIG_Sauer_P226.jpg/1200px-SIG_Sauer_P226.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/guns/SIG_Sauer_P226.png"
   }
 ]
