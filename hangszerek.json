@@ -3,96 +3,96 @@
     "name": "Piano",
     "type": "Keyboard",
     "origin": "Italy",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Grand_piano_steingraeber.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Grand_piano.png"
   },
   {
     "name": "Violin",
     "type": "String",
     "origin": "Italy",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Violin_VL100.png"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Violin.png"
   },
   {
     "name": "Flute",
     "type": "Woodwind",
     "origin": "Germany",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Western_concert_flute_%28Yamaha%29.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Flute.png"
   },
   {
     "name": "Trumpet",
     "type": "Brass",
     "origin": "Unknown",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Trumpet_1.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Trumpet.png"
   },
   {
     "name": "Drum kit",
     "type": "Percussion",
     "origin": "Global",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Standard_drum_kit.png"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Drum_kit.png"
   },
   {
     "name": "Guitar",
     "type": "String",
     "origin": "Spain",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Classical_guitar.png"
   },
   {
     "name": "Cello",
     "type": "String",
     "origin": "Italy",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Cello_front_side.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Cello.png"
   },
   {
     "name": "Clarinet",
     "type": "Woodwind",
     "origin": "Germany",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Clarinet_Black.png"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Clarinet.png"
   },
   {
     "name": "Trombone",
     "type": "Brass",
     "origin": "Italy",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Trombone_black.png"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Trombone.png"
   },
   {
     "name": "Harp",
     "type": "String",
     "origin": "Ancient Egypt",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Harp_3.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Harp.png"
   },
   {
     "name": "Saxophone",
     "type": "Woodwind",
     "origin": "Belgium",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Alto_saxophone_front.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Alto_saxophone.png"
   },
   {
     "name": "Accordion",
     "type": "Keyboard",
     "origin": "Italy",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Accordion_Piano.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Accordion.png"
   },
   {
     "name": "Oboe",
     "type": "Woodwind",
     "origin": "France",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Oboe_1.png"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Oboe.png"
   },
   {
     "name": "Bass Guitar",
     "type": "String",
     "origin": "United States",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bass_guitar_front.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Bass_Guitar.png"
   },
   {
     "name": "Marimba",
     "type": "Percussion",
     "origin": "Africa",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Marimba.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Marimba.png"
   },
   {
     "name": "Double Bass",
     "type": "String",
     "origin": "Italy",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Double_bass_front.jpg"
+    "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Double_Bass.png"
   }
 ]
