@@ -1,0 +1,32 @@
+[
+  {
+    "_id": 1,
+    "name": "String",
+    "description": "Vonós hangszerek, amelyek húrok rezegtetésével hoznak létre hangot. Vonóval vagy pengetéssel szólaltathatók meg."
+  },
+  {
+    "_id": 2,
+    "name": "Woodwind",
+    "description": "Fafúvós hangszerek, amelyek levegő befúvásával szólalnak meg. Eredetileg fából készültek, bár ma már más anyagokból is."
+  },
+  {
+    "_id": 3,
+    "name": "Brass",
+    "description": "Rézfúvós hangszerek, amelyek fémből készült csövön keresztül fújt levegővel szólalnak meg. Az ajkak rezegtetésével keltik a hangot."
+  },
+  {
+    "_id": 4,
+    "name": "Percussion",
+    "description": "Ütős hangszerek, amelyek ütéssel, rázással vagy dörzsöléssel hoznak létre hangot. Ritmust és színt adnak a zenének."
+  },
+  {
+    "_id": 5,
+    "name": "Keyboard",
+    "description": "Billentyűs hangszerek, amelyeket billentyűzeten keresztül szólaltatnak meg. Széles hangterjedelmű, polifon hangszerek."
+  },
+  {
+    "_id": 6,
+    "name": "Plucked string",
+    "description": "Pengetős húros hangszerek, amelyek húrok pengetésével szólalnak meg. Kézzel vagy pengetővel játsszák őket."
+  }
+]
