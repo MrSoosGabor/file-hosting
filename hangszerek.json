@@ -2,280 +2,280 @@
   {
     "_id": 1,
     "name": "Violin",
-    "type": "String",
+    "group_id": 1,
     "origin": "Italy",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Violin.png"
   },
   {
     "_id": 2,
     "name": "Viola",
-    "type": "String",
+    "group_id": 1,
     "origin": "Italy",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Viola.png"
   },
   {
     "_id": 3,
     "name": "Cello",
-    "type": "String",
+    "group_id": 1,
     "origin": "Italy",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Cello.png"
   },
   {
     "_id": 4,
     "name": "Double Bass",
-    "type": "String",
+    "group_id": 1,
     "origin": "Italy",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Double_bass.png"
   },
   {
     "_id": 5,
     "name": "Harp",
-    "type": "String",
+    "group_id": 1,
     "origin": "Ancient Egypt",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Harp.png"
   },
   {
     "_id": 6,
     "name": "Flute",
-    "type": "Woodwind",
+    "group_id": 2,
     "origin": "Germany",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Flute.png"
   },
   {
     "_id": 7,
     "name": "Clarinet",
-    "type": "Woodwind",
+    "group_id": 2,
     "origin": "Germany",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Clarinet.png"
   },
   {
     "_id": 8,
     "name": "Oboe",
-    "type": "Woodwind",
+    "group_id": 2,
     "origin": "France",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Oboe.png"
   },
   {
     "_id": 9,
     "name": "Bassoon",
-    "type": "Woodwind",
+    "group_id": 2,
     "origin": "France",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Bassoon.png"
   },
   {
     "_id": 10,
     "name": "Piccolo",
-    "type": "Woodwind",
+    "group_id": 2,
     "origin": "France",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Piccolo.png"
   },
   {
     "_id": 11,
     "name": "English Horn",
-    "type": "Woodwind",
+    "group_id": 2,
     "origin": "France",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/English_Horn.png"
   },
   {
     "_id": 12,
     "name": "Bass Clarinet",
-    "type": "Woodwind",
+    "group_id": 2,
     "origin": "France",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Bass_Clarinet.png"
   },
   {
     "_id": 13,
     "name": "Trumpet",
-    "type": "Brass",
+    "group_id": 3,
     "origin": "Unknown",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Trumpet.png"
   },
   {
     "_id": 14,
     "name": "French Horn",
-    "type": "Brass",
+    "group_id": 3,
     "origin": "Unknown",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/French_Horn.png"
   },
   {
     "_id": 15,
     "name": "Trombone",
-    "type": "Brass",
+    "group_id": 3,
     "origin": "Italy",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Trombone.png"
   },
   {
     "_id": 16,
     "name": "Tuba",
-    "type": "Brass",
+    "group_id": 3,
     "origin": "Unknown",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Tuba.png"
   },
   {
     "_id": 17,
     "name": "Cornet",
-    "type": "Brass",
+    "group_id": 3,
     "origin": "Italy",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Cornet.png"
   },
   {
     "_id": 18,
     "name": "Saxophone",
-    "type": "Brass",
+    "group_id": 3,
     "origin": "Belgium",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Alto_saxophone.png"
   },
   {
     "_id": 19,
     "name": "Timpani",
-    "type": "Percussion",
+    "group_id": 4,
     "origin": "Global",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Timpani.png"
   },
   {
     "_id": 20,
     "name": "Xilophone",
-    "type": "Percussion",
+    "group_id": 4,
     "origin": "Africa",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Xilophone.png"
   },
   {
     "_id": 21,
     "name": "Marimba",
-    "type": "Percussion",
+    "group_id": 4,
     "origin": "Africa",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Marimba.png"
   },
   {
     "_id": 22,
     "name": "Vibraphone",
-    "type": "Percussion",
-    "origin": "Africa",
+    "group_id": 4,
+    "origin": "United States",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Vibraphone.png"
   },
   {
     "_id": 23,
     "name": "Drum kit",
-    "type": "Percussion",
+    "group_id": 4,
     "origin": "Global",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Drum_kit.png"
   },
   {
     "_id": 24,
     "name": "Triangle",
-    "type": "Percussion",
+    "group_id": 4,
     "origin": "Global",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Triangle.png"
   },
   {
     "_id": 25,
     "name": "Tamburine",
-    "type": "Percussion",
+    "group_id": 4,
     "origin": "Global",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Tamburine.png"
   },
   {
     "_id": 26,
     "name": "Castanets",
-    "type": "Percussion",
-    "origin": "Global",
+    "group_id": 4,
+    "origin": "Spain",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Castanets.png"
   },
   {
     "_id": 27,
     "name": "Piano",
-    "type": "Keyboard",
+    "group_id": 5,
     "origin": "Italy",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Grand_piano.png"
   },
   {
     "_id": 28,
     "name": "Harpsichord",
-    "type": "Keyboard",
+    "group_id": 5,
     "origin": "Italy",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Harpsichord.png"
   },
   {
     "_id": 29,
     "name": "Organ",
-    "type": "Keyboard",
-    "origin": "Italy",
+    "group_id": 5,
+    "origin": "Ancient Greece",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Organ.png"
   },
   {
     "_id": 30,
     "name": "Hammond Organ",
-    "type": "Keyboard",
+    "group_id": 5,
     "origin": "United States",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Hammond.png"
   },
   {
     "_id": 31,
     "name": "Harmonium",
-    "type": "Keyboard",
+    "group_id": 5,
     "origin": "France",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Harmonium.png"
   },
   {
     "_id": 32,
     "name": "Accordion",
-    "type": "Keyboard",
-    "origin": "Italy",
+    "group_id": 5,
+    "origin": "Germany",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Accordion.png"
   },
   {
     "_id": 33,
     "name": "Synthesizer",
-    "type": "Keyboard",
-    "origin": "Italy",
+    "group_id": 5,
+    "origin": "United States",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Synthesizer.png"
   },
   {
     "_id": 34,
     "name": "Guitar",
-    "type": "Plucked string",
+    "group_id": 6,
     "origin": "Spain",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Classical_guitar.png"
   },
   {
     "_id": 35,
     "name": "Bass Guitar",
-    "type": "Plucked string",
+    "group_id": 6,
     "origin": "United States",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Bass_guitar.png"
   },
   {
     "_id": 36,
     "name": "Lute",
-    "type": "Plucked string",
-    "origin": "United States",
+    "group_id": 6,
+    "origin": "Middle East",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Lute.png"
   },
   {
     "_id": 37,
     "name": "Mandolin",
-    "type": "Plucked string",
-    "origin": "United States",
+    "group_id": 6,
+    "origin": "Italy",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Mandolin.png"
   },
   {
     "_id": 38,
     "name": "Zither",
-    "type": "Plucked string",
-    "origin": "United States",
+    "group_id": 6,
+    "origin": "Austria/Germany",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Zither.png"
   },
   {
     "_id": 39,
     "name": "Ukulele",
-    "type": "Plucked string",
-    "origin": "United States",
+    "group_id": 6,
+    "origin": "Hawaii",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Ukulele.png"
   },
   {
     "_id": 40,
     "name": "Banjo",
-    "type": "Plucked string",
+    "group_id": 6,
     "origin": "United States",
     "image": "https://file-hosting-p4gy.onrender.com/public/music-instruments/Banjo.png"
   }
