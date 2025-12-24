@@ -32,6 +32,7 @@ Kürt (francia kürt)
 Harsona
 Tuba
 Kornett
+Szaxofon
 
 4. Ütőhangszerek
 
@@ -42,7 +43,6 @@ a) Határozott hangmagasságú ütőhangszerek
 Xilofon
 Marimba
 Vibrafon
-Harangjáték
 
 b) Határozatlan hangmagasságú ütőhangszerek
 Pergődob
@@ -60,8 +60,9 @@ Legfontosabb tagok:
 Zongora
 Csembaló
 Orgona
+Hammond orgona
 Harmonium
-
+Harmonika
 Szintetizátor
 
 6. Pengetős hangszerek
@@ -70,6 +71,7 @@ A hangot pengetéssel hozzák létre.
 
 Legfontosabb tagok:
 Gitár
+Basszus gitár
 Lant
 Mandolin
 Citera
